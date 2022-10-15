@@ -5,5 +5,19 @@
         "password": "test",
         "firstName": "Test",
         "lastName": "User"
+    },
+    {
+        "id": 2,
+        "username": "yannis",
+        "password": "yannis",
+        "firstName": "Yan",
+        "lastName": "Mar"
+    },
+    {
+        "id": 3,
+        "username": "nikos",
+        "password": "nikos",
+        "firstName": "Nik",
+        "lastName": "Mar"
     }
 ]
